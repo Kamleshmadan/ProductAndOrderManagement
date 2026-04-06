@@ -102,5 +102,3 @@ These are handled globally using @ControllerAdvice.
 * Easy to extend with additional features
 
 ---
-
-This project is open-source and available under the MIT License.
